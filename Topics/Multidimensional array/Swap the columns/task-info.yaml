@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/1928#comment
+status: Failed
+feedback:
+  message: "Failed test #4 of 13. Runtime error\n\nError:\nException in thread \"\
+    main\" java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length\
+    \ 1\n\tat Main.main(Main.java:29)\n"
+  time: Tue, 26 Apr 2022 10:20:28 UTC
+record: -1
